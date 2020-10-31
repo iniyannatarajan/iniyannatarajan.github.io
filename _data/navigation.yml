@@ -1,12 +1,10 @@
 main:
   - title: "Science"
     url: /science/
-  - title: "Software"
-    url: /software/
+  - title: "Technology"
+    url: /technology/
   - title: "Books"
     url: /books/
-  - title: "Writing"
-    url: /writing/
   - title: "Travel"
     url: /travel/
   - title: "About"

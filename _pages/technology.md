@@ -1,6 +1,6 @@
 ---
-permalink: /software/
-title: "Software"
+permalink: /technology/
+title: "Technology"
 author_profile: false
 toc: true
 toc_icon: "terminal"
