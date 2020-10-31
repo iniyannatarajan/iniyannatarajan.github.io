@@ -1,34 +1,34 @@
 ---
-permalink: /books/
-title: "Books"
+permalink: /library/
+title: "library"
 toc: true
 toc_icon: "book"
 #classes: wide
 author_profile: false
 ---
 
-<p style="text-align:justify;"> Here is an incomplete list of books that I have benefitted from and would recommend to anyone.
+<p style="text-align:justify;"> Here is an incomplete list of books and authors that I have benefitted from and would recommend to anyone.
 A less incomplete list may be found on <a href="https://www.goodreads.com/user/show/7790691-iniyan">Goodreads</a>.</p>
 
 
 ## Speculative Fiction
 
-**The Left Hand of Darkness**; **The Dispossessed**; **The Tombs of Atuan**; **Tehanu** <br>
-Ursula K. Le Guin
+Ursula K. Le Guin<br>
+(**The Left Hand of Darkness**, **The Dispossessed**, **The Tombs of Atuan**, **Tehanu**)
 
-**The Hitchhiker's Guide to the Galaxy** series<br>
+**The Hitchhiker's Guide to the Galaxy** *series*<br>
 Douglas Adams
 
-**The Fountains of Paradise**; **The Songs of Distant Earth**<br>
-Arthur C. Clarke
+Arthur C. Clarke<br>
+(**The Fountains of Paradise**, **The Songs of Distant Earth**)
 
-**Foundation** series; **The Gods Themselves**; **The Complete Robot**<br>
-Isaac Asimov
+Isaac Asimov<br>
+(**Foundation** *series*, **The Gods Themselves**, **The Complete Robot**)
 
 **Kindred**<br>
 Octavia E. Butler
 
-**Discworld** *City Watch* series<br>
+**Discworld** City Watch *series*<br>
 Terry Pratchett
 
 **Einstein's Dreams**<br>
@@ -37,7 +37,7 @@ Alan Lightman
 **The Color of Distance**<br>
 Amy Thomson
 
-## History, Memoirs, and Biography
+## Memoirs/Biography/History
 
 **Alan Turing: The Enigma**<br>
 Andrew Hodges
@@ -60,7 +60,7 @@ Charles Darwin
 **The Warmth of Other Suns: The Epic Story of America's Great Migration**<br>
 Isabel Wilkerson
 
-## Classical, Modern, and Postmodern Fiction
+## Classical/Modern/Postmodern Fiction
 
 **The Remains of the Day**<br>
 Kazuo Ishiguro
@@ -86,8 +86,8 @@ Aleksandr Solzhenitsyn
 **Excellent Women**<br>
 Barbara Pym
 
-**Midnight's Children**; **Shalimar the Clown**<br>
-Salman Rushdie
+Salman Rushdie<br>
+(**Midnight's Children**, **Shalimar the Clown**)
 
 ## Science and Humanity
 
