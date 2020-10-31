@@ -1,6 +1,6 @@
 ---
 permalink: /library/
-title: "library"
+title: "Library"
 toc: true
 toc_icon: "book"
 #classes: wide
