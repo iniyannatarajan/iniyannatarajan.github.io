@@ -157,5 +157,5 @@ by exploiting the power of numerical samplers has become possible.</p>
 
 <p style="text-align:center"><img src="../assets/images/front.jpg" alt="Front"> <img src="../assets/images/back.jpg" alt="Back"></p>
 
-<p style="text-align:center"><a href="http://hdl.handle.net/11427/27243">Visit Download Page</a></p>
+<p style="text-align:center"><a href="https://hdl.handle.net/11427/27243">Visit Download Page</a></p>
 
