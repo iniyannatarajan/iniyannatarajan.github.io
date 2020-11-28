@@ -22,7 +22,7 @@ A list of my publications can be found [here](https://ui.adsabs.harvard.edu/sear
 ## Selected Talks
 
 **Do Not Go Gentle Into That Good Night (First EHT Results)**<br>
-*Virtual Open Night, SAAO* ([article](https://www.saao.ac.za/event/seeing-the-unseeable-imaging-a-black-hole/) | [video](https://www.youtube.com/watch?v=9TyhtBqIkLE))
+*Virtual Open Night, SAAO* ([article](/science/saao2020/) | [video](https://www.youtube.com/watch?v=9TyhtBqIkLE))
 
 **Probability and Inference in Astronomy**<br>
 *Astronomy & Astrophysics Research Group, IUB* ([video](https://www.youtube.com/watch?v=OlHQC_dU1Oc)) 
