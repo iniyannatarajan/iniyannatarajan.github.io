@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "The Happy Sea Star"
+  name   : "The Happy Asteroid"
   avatar : "/assets/images/bio-photo2.jpg"
   bio    : "Marthasterias glacialis"
   location: Waters of Terra
