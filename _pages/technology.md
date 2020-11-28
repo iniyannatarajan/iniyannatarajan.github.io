@@ -1,7 +1,7 @@
 ---
 permalink: /technology/
 title: "Technology"
-author_profile: false
+author_profile: true
 toc: true
 toc_icon: "terminal"
 #classes: wide

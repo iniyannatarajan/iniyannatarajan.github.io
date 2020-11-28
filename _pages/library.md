@@ -1,10 +1,10 @@
 ---
 permalink: /library/
 title: "Library"
+author_profile: true
 toc: true
 toc_icon: "book"
-#classes: wide
-author_profile: false
+classes: wide
 ---
 
 <p style="text-align:justify;"> Here is an incomplete list of books and authors that I have benefitted from and would recommend to anyone.

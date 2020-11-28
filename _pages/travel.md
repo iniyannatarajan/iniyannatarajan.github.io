@@ -6,5 +6,5 @@ header:
   overlay_image: /assets/images/travel.jpg
   caption: "Gulmarg, Kashmir"
 classes: wide
-author_profile: false
+author_profile: true
 ---
