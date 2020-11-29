@@ -50,6 +50,8 @@ A less incomplete list may be found on <a href="https://www.goodreads.com/user/s
 
 ### Classical/Modern/Postmodern Fiction
 
+**The Complete Sherlock Holmes** *Sir Arthur Conan Doyle*
+
 **The Remains of the Day** *Kazuo Ishiguro*
 
 **Catch-22** *Joseph Heller*
