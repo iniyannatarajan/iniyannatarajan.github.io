@@ -12,8 +12,9 @@ toc_icon: "user-astronaut"
 ---
 
 <p style="text-align:justify;"> I am a 
-<a href="https://www.nrf.ac.za/division/rcce/instruments/research-chairs">South African Research Chairs Initiative and South African Radio Astronomy Observatory funded postdoctoral fellow</a> (SARChI)
-at the University of the Witwatersrand <a href="https://www.wits.ac.za/physics/">School of Physics</a> and the <a href="https://www.sarao.ac.za/">South African Radio Astronomy Observatory</a> (SARAO).
+<a href="https://www.nrf.ac.za/division/rcce/instruments/research-chairs">South African Research Chairs Initiative</a> (SARChI) and 
+<a href="https://www.sarao.ac.za/">South African Radio Astronomy Observatory</a> (SARAO) funded postdoctoral fellow at the 
+University of the Witwatersrand <a href="https://www.wits.ac.za/physics/">School of Physics</a> and SARAO.
 I am a member of the <a href="https://eventhorizontelescope.org/">Event Horizon Telescope</a> (EHT) Collaboration.</p>
 
 I am interested in the analysis and synthesis of data from radio telescopes and the application of probability and information theory to problems in astronomy. 
