@@ -10,78 +10,79 @@ toc_icon: "book"
 <p style="text-align:justify;"> Here is a (very) incomplete list of books and authors that I have benefitted from and would recommend to anyone.
 A less incomplete list may be found on <a href="https://www.goodreads.com/user/show/7790691-iniyan">Goodreads</a>.</p>
 
+## English
 
-## Speculative Fiction
+### Speculative Fiction
 
-**Wayfarers** ***series***; **To Be Taught, If Fortunate** *by* Bcky Chambers
+**Wayfarers** ***series***; **To Be Taught, If Fortunate** *Becky Chambers*
 
-**The Fountains of Paradise**; **The Songs of Distant Earth** _by_ Arthur C. Clarke
+**The Fountains of Paradise**; **The Songs of Distant Earth** *Arthur C. Clarke*
 
-**The Left Hand of Darkness**; **The Dispossessed**; **The Tombs of Atuan**; **Tehanu** _by_ Ursula K. Le Guin
+**The Left Hand of Darkness**; **The Dispossessed**; **The Tombs of Atuan**; **Tehanu** *Ursula K. Le Guin*
 
-**The Hitchhiker's Guide to the Galaxy** *series* _by_ Douglas Adams
+**The Hitchhiker's Guide to the Galaxy** ***series*** *Douglas Adams*
 
-**Foundation** ***series*** **The Gods Themselves**; **The Complete Robot** _by_ Isaac Asimov
+**Foundation** ***series*** **The Gods Themselves**; **The Complete Robot**  *Isaac Asimov*
 
-**Kindred** _by_ Octavia E. Butler
+**Kindred** *Octavia E. Butler*
 
-**Discworld** ***City Watch series*** _by_ Terry Pratchett
+**Discworld** ***City Watch series*** *Terry Pratchett*
 
-**Einstein's Dreams** _by_ Alan Lightman
+**Einstein's Dreams** *Alan Lightman*
 
-**The Color of Distance** _by_ Amy Thomson
+**The Color of Distance** *Amy Thomson*
 
-## Memoirs/Biography/History
+### Memoirs/Biography/History
 
-**Alan Turing: The Enigma** *by* Andrew Hodges
+**Alan Turing: The Enigma** *Andrew Hodges*
 
-**The Diary of a Young Girl** *by* Anne Frank
+**The Diary of a Young Girl** *Anne Frank*
 
-**The Periodic Table** *by* Primo Levi
+**The Periodic Table** *Primo Levi*
 
-**Long Walk to Freedom** *by* Nelson Mandela
+**Long Walk to Freedom** *Nelson Mandela*
 
-**Black Milk: On Motherhood and Writing** *by* Elif Shafak
+**Black Milk: On Motherhood and Writing** *Elif Shafak*
 
-**Voyage of the Beagle** *by* Charles Darwin
+**Voyage of the Beagle** *Charles Darwin*
 
-**The Warmth of Other Suns** *by* Isabel Wilkerson
+**The Warmth of Other Suns** *Isabel Wilkerson*
 
-## Classical/Modern/Postmodern Fiction
+### Classical/Modern/Postmodern Fiction
 
-**The Remains of the Day** *by* Kazuo Ishiguro
+**The Remains of the Day** *Kazuo Ishiguro*
 
-**Catch-22** *by* Joseph Heller
+**Catch-22** *Joseph Heller*
 
-**War and Peace** *by* Leo Tolstoy
+**War and Peace** *Leo Tolstoy*
 
-**Half of a Yellow Sun** *by* Chimamanda Ngozi Adichie
+**Half of a Yellow Sun** *Chimamanda Ngozi Adichie*
 
-**If on a Winter's Night a Traveler** *by* Italo Calvino
+**If on a Winter's Night a Traveler** *Italo Calvino*
 
-**Interpreter of Maladies** *by* Jhumpa Lahiri
+**Interpreter of Maladies** *Jhumpa Lahiri*
 
-**Midnight's Children**; **Shalimar the Clown** *by* Salman Rushdie
+**Midnight's Children**; **Shalimar the Clown** *Salman Rushdie*
 
-## Science and Humanity
+### Science and Humanity
 
-**Behave: The Biology of Humans at Our Best and Worst** *by* Robert Sapolsky
+**Behave: The Biology of Humans at Our Best and Worst** *Robert Sapolsky*
 
-**Thinking, Fast and Slow** *by* Daniel Kahneman
+**Thinking, Fast and Slow** *Daniel Kahneman*
 
-**Moral Tribes** *by* Joshua Greene
+**Moral Tribes** *Joshua Greene*
 
-**The Evolution of Co-operation** *by* Robert Axelrod
+**The Evolution of Co-operation** *Robert Axelrod*
 
-**The Sciences of the Artificial** *by* Herbert A. Simon
+**The Sciences of the Artificial** *Herbert A. Simon*
 
-**Factfulness** *by* Hans Rosling
+**Factfulness** *Hans Rosling*
 
-**Guns, Germs, and Steel** *by* Jared Diamond
+**Guns, Germs, and Steel** *Jared Diamond*
 
-**Consilience: The Unity of Knowledge** *by* Edward O. Wilson
+**Consilience: The Unity of Knowledge** *Edward O. Wilson*
 
-**The Big Picture** *by* Sean Carroll
+**The Big Picture** *Sean Carroll*
 
 ## தமிழ்
 
