@@ -7,7 +7,7 @@ header:
   caption: "Observatory Women Computers (1891), Harvard Libraries"
 classes: wide
 author_profile: true
-toc: true
+toc: false
 toc_icon: "user-astronaut"
 ---
 
@@ -21,7 +21,8 @@ I am interested in the analysis and synthesis of data from radio telescopes and 
 
 ## Publications
 
-A list of my publications can be found [here](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22natarajan%2C%20iniyan%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+A list of my publications can be found [here](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22natarajan%2C%20iniyan%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+or <a href="https://arxiv.org/search/?query=iniyan+natarajan&searchtype=all&source=header">here</a>.
 
 ## Selected Talks
 
@@ -33,9 +34,11 @@ A list of my publications can be found [here](https://ui.adsabs.harvard.edu/sear
 
 ## PhD Thesis
 
-<p style="text-align:justify;"> I wrote my PhD thesis on <b>Probabilistic Methods for Radio Interferometry Data Analysis</b> 
-(2017, University of Cape Town). An excerpt from the preface to my thesis follows. If it piques your interest, you can download
-the complete thesis using the link at the end.</p>
+<p style="text-align:justify;"> I earned my PhD in Astronomy from the <a href="https://www.uct.ac.za/">University of Cape Town</a> (UCT) for the thesis entitled 
+<i>Probabilistic Methods for Radio Interferometry Data Analysis</i>.
+<p style="text-align:center"><img src="../assets/images/front.jpg" alt="Front"> <img src="../assets/images/back.jpg" alt="Back"></p>
+
+An excerpt from the preface to my thesis follows. If it piques your interest, you can download the complete thesis from the link at the end.</p>
 
 <p style="text-align:center;font-family:georgia"><b>PREFACE</b></p>
 
@@ -159,7 +162,4 @@ tackling many scientific problems for which analytical solutions are intractable
 backdrop that a full probability-theoretic approach to solving radio interferometry equations
 by exploiting the power of numerical samplers has become possible.</p>
 
-<p style="text-align:center"><img src="../assets/images/front.jpg" alt="Front"> <img src="../assets/images/back.jpg" alt="Back"></p>
-
-<p style="text-align:center"><a href="https://hdl.handle.net/11427/27243">Visit Download Page</a></p>
-
+<a href="https://hdl.handle.net/11427/27243"><i>Visit download page</i></a>

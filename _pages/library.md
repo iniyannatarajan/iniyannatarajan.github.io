@@ -4,116 +4,91 @@ title: "Library"
 author_profile: true
 toc: true
 toc_icon: "book"
-classes: wide
+#classes: wide
 ---
 
-<p style="text-align:justify;"> Here is an incomplete list of books and authors that I have benefitted from and would recommend to anyone.
+<p style="text-align:justify;"> Here is a (very) incomplete list of books and authors that I have benefitted from and would recommend to anyone.
 A less incomplete list may be found on <a href="https://www.goodreads.com/user/show/7790691-iniyan">Goodreads</a>.</p>
 
 
 ## Speculative Fiction
 
-Ursula K. Le Guin<br>
-(**The Left Hand of Darkness**, **The Dispossessed**, **The Tombs of Atuan**, **Tehanu**)
+**Wayfarers** ***series***; **To Be Taught, If Fortunate** *by* Bcky Chambers
 
-**The Hitchhiker's Guide to the Galaxy** *series*<br>
-Douglas Adams
+**The Fountains of Paradise**; **The Songs of Distant Earth** _by_ Arthur C. Clarke
 
-Arthur C. Clarke<br>
-(**The Fountains of Paradise**, **The Songs of Distant Earth**)
+**The Left Hand of Darkness**; **The Dispossessed**; **The Tombs of Atuan**; **Tehanu** _by_ Ursula K. Le Guin
 
-Isaac Asimov<br>
-(**Foundation** *series*, **The Gods Themselves**, **The Complete Robot**)
+**The Hitchhiker's Guide to the Galaxy** *series* _by_ Douglas Adams
 
-**Kindred**<br>
-Octavia E. Butler
+**Foundation** ***series*** **The Gods Themselves**; **The Complete Robot** _by_ Isaac Asimov
 
-**Discworld** City Watch *series*<br>
-Terry Pratchett
+**Kindred** _by_ Octavia E. Butler
 
-**Einstein's Dreams**<br>
-Alan Lightman
+**Discworld** ***City Watch series*** _by_ Terry Pratchett
 
-**The Color of Distance**<br>
-Amy Thomson
+**Einstein's Dreams** _by_ Alan Lightman
+
+**The Color of Distance** _by_ Amy Thomson
 
 ## Memoirs/Biography/History
 
-**Alan Turing: The Enigma**<br>
-Andrew Hodges
+**Alan Turing: The Enigma** *by* Andrew Hodges
 
-**The Diary of a Young Girl**<br>
-Anne Frank
+**The Diary of a Young Girl** *by* Anne Frank
 
-**The Periodic Table**<br>
-Primo Levi
+**The Periodic Table** *by* Primo Levi
 
-**Long Walk to Freedom**<br>
-Nelson Mandela
+**Long Walk to Freedom** *by* Nelson Mandela
 
-**Black Milk: On Motherhood and Writing**<br>
-Elif Shafak
+**Black Milk: On Motherhood and Writing** *by* Elif Shafak
 
-**Voyage of the Beagle**<br>
-Charles Darwin
+**Voyage of the Beagle** *by* Charles Darwin
 
-**The Warmth of Other Suns: The Epic Story of America's Great Migration**<br>
-Isabel Wilkerson
+**The Warmth of Other Suns** *by* Isabel Wilkerson
 
 ## Classical/Modern/Postmodern Fiction
 
-**The Remains of the Day**<br>
-Kazuo Ishiguro
+**The Remains of the Day** *by* Kazuo Ishiguro
 
-**Catch-22**<br>
-Joseph Heller
+**Catch-22** *by* Joseph Heller
 
-**War and Peace**<br>
-Leo Tolstoy
+**War and Peace** *by* Leo Tolstoy
 
-**Half of a Yellow Sun**<br>
-Chimamanda Ngozi Adichie
+**Half of a Yellow Sun** *by* Chimamanda Ngozi Adichie
 
-**If on a Winter's Night a Traveler**<br>
-Italo Calvino
+**If on a Winter's Night a Traveler** *by* Italo Calvino
 
-**Interpreter of Maladies**<br>
-Jhumpa Lahiri
+**Interpreter of Maladies** *by* Jhumpa Lahiri
 
-**One Day in the Life of Ivan Denisovich**<br>
-Aleksandr Solzhenitsyn
-
-**Excellent Women**<br>
-Barbara Pym
-
-Salman Rushdie<br>
-(**Midnight's Children**, **Shalimar the Clown**)
+**Midnight's Children**; **Shalimar the Clown** *by* Salman Rushdie
 
 ## Science and Humanity
 
-**Behave: The Biology of Humans at Our Best and Worst**<br>
-Robert Sapolsky
+**Behave: The Biology of Humans at Our Best and Worst** *by* Robert Sapolsky
 
-**Thinking, Fast and Slow**<br>
-Daniel Kahneman
+**Thinking, Fast and Slow** *by* Daniel Kahneman
 
-**Moral Tribes: Emotion, Reason, and the Gap Between Us and Them**<br>
-Joshua Greene
+**Moral Tribes** *by* Joshua Greene
 
-**The Evolution of Co-operation**<br>
-Robert Axelrod
+**The Evolution of Co-operation** *by* Robert Axelrod
 
-**The Sciences of the Artificial**<br>
-Herbert A. Simon
+**The Sciences of the Artificial** *by* Herbert A. Simon
 
-**Factfulness**<br>
-Hans Rosling
+**Factfulness** *by* Hans Rosling
 
-**Guns, Germs, and Steel: The Fates of Human Societies**<br>
-Jared Diamond
+**Guns, Germs, and Steel** *by* Jared Diamond
 
-**Consilience: The Unity of Knowledge**<br>
-Edward O. Wilson
+**Consilience: The Unity of Knowledge** *by* Edward O. Wilson
 
-**The Big Picture**<br>
-Sean Carroll
+**The Big Picture** *by* Sean Carroll
+
+## தமிழ்
+
+பூமணி*யின்* **அஞ்ஞாடி**
+
+கி. ராஜநாராயண*னின்* **கோபல்ல கிராமம்**; **கோபல்லபுரத்து மக்கள்** 
+
+கல்கி*யின்* **சிவகாமியின் சபதம்**; **பார்த்திபன் கனவு**; **பொன்னியின் செல்வன்**
+
+
