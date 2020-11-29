@@ -11,9 +11,12 @@ toc: true
 toc_icon: "user-astronaut"
 ---
 
-<p style="text-align:justify;"> I am interested in the simulation and calibration of data from radio telescopes
-and the application of Bayesian inference methods to problems in astronomy. I am also a member of the 
-<a href="https://eventhorizontelescope.org/">Event Horizon Telescope</a> Collaboration that, among other things, released the first ever images of a black hole.</p>
+<p style="text-align:justify;"> I am a 
+<a href="https://www.nrf.ac.za/division/rcce/instruments/research-chairs">South African Research Chairs Initiative and South African Radio Astronomy Observatory funded postdoctoral fellow</a> (SARChI)
+at the University of the Witwatersrand <a href="https://www.wits.ac.za/physics/">School of Physics</a> and the <a href="https://www.sarao.ac.za/">South African Radio Astronomy Observatory</a> (SARAO).
+I am a member of the <a href="https://eventhorizontelescope.org/">Event Horizon Telescope</a> (EHT) Collaboration.</p>
+
+I am interested in the analysis and synthesis of data from radio telescopes and the application of probability and information theory to problems in astronomy. 
 
 ## Publications
 
