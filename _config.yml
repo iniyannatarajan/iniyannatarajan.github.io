@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Unity of Knowledge
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dirt # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
 # Build settings

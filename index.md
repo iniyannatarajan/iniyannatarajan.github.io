@@ -14,4 +14,4 @@ header:
 #      url: "https://unsplash.com"
 classes: wide
 ---
-<p style="font-family:georgia">Because Nature does not care how humans demarcate the study of various aspects of Nature.</p>
+<p style="font-family:georgia">Because Nature does not care how humans demarcate the study of its various facets.</p>
