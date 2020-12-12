@@ -82,6 +82,8 @@ A less incomplete list may be found on <a href="https://www.goodreads.com/user/s
 
 **Guns, Germs, and Steel** *Jared Diamond*
 
+**A Beautiful Question** *Frank Wilczek*
+
 **Consilience: The Unity of Knowledge** *Edward O. Wilson*
 
 **The Big Picture** *Sean Carroll*
