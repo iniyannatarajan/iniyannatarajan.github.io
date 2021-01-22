@@ -14,7 +14,7 @@ Some software packages I am currently working on...
 <p style="text-align:justify;"> <code>zagros</code> is a parametric Bayesian inference tool written in <code>python</code> for analysing radio interferometric data.
 Earlier versions of the same framework have been used to analyse <a href="https://en.wikipedia.org/wiki/Very-long-baseline_interferometry">very long baseline interferometry</a>
 (VLBI) obervations with the <a href="https://www.evlbi.org/">European VLBI Network</a> (EVN). The current version has been used to calibrate synthetic EHT observations 
-in the presence of atmospheric effects that affect the quality of radio observations (<a href='https://arxiv.org/abs/2004.01161'>Natarajan et al. 2020</a>).</p>
+in the presence of atmospheric effects that affect the quality of radio observations (<a href='https://arxiv.org/abs/2005.12655'>Natarajan et al. 2020</a>).</p>
 
 [Code](https://github.com/saiyanprince/zagros) [Docs](https://zagros.readthedocs.io/en/latest/)
 
