@@ -1,4 +1,6 @@
 main:
+  - title: "Posts"
+    url: /posts/
   - title: "Science"
     url: /science/
   - title: "Technology"
@@ -7,8 +9,6 @@ main:
     url: /library/
   - title: "Travel"
     url: /travel/
-  - title: "Posts"
-    url: /posts/
     #- title: "About"
     #url: /about/
         #  - title: "Categories"
