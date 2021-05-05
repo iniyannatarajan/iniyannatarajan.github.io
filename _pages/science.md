@@ -22,7 +22,7 @@ I am interested in the analysis and synthesis of data from radio telescopes and 
 ## Publications
 
 A list of my publications can be found on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/7q70a_hAT6iSwhpr4OXVQQ)
-or on [Arxiv]("https://arxiv.org/a/natarajan_i_1.html").
+or on [Arxiv](https://arxiv.org/a/natarajan_i_1.html).
 
 ## Selected Talks
 
