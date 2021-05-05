@@ -38,7 +38,7 @@ or on [Arxiv]("https://arxiv.org/search/?query=iniyan+natarajan&searchtype=all&s
 <i>Probabilistic Methods for Radio Interferometry Data Analysis</i>.
 <p style="text-align:center"><img src="../assets/images/front.jpg" alt="Front"> <img src="../assets/images/back.jpg" alt="Back"></p>
 
-An excerpt from the preface to my thesis follows. If it piques your interest, you can download the complete thesis from the link at the end.</p>
+An excerpt from the preface to my thesis follows. If it piques your interest, you can download the complete thesis from [here](https://hdl.handle.net/11427/27243).</p>
 
 <p style="text-align:center;font-family:georgia"><b>PREFACE</b></p>
 
@@ -161,5 +161,3 @@ driven by the computer gaming industry, has made possible the numerical simulati
 tackling many scientific problems for which analytical solutions are intractable. It is in this technological 
 backdrop that a full probability-theoretic approach to solving radio interferometry equations
 by exploiting the power of numerical samplers has become possible.</p>
-
-<a href="https://hdl.handle.net/11427/27243"><i>Visit download page</i></a>
