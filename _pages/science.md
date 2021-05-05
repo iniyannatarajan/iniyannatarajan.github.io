@@ -38,7 +38,7 @@ or on [Arxiv]("https://arxiv.org/search/?query=iniyan+natarajan&searchtype=all&s
 <i>Probabilistic Methods for Radio Interferometry Data Analysis</i>.
 <p style="text-align:center"><img src="../assets/images/front.jpg" alt="Front"> <img src="../assets/images/back.jpg" alt="Back"></p>
 
-An excerpt from the preface to my thesis follows. If it piques your interest, you can download the complete thesis from [here](https://hdl.handle.net/11427/27243).</p>
+An excerpt from the preface to my thesis follows. If it piques your interest, you can download the complete thesis from <a href="https://hdl.handle.net/11427/27243">here</a>.</p>
 
 <p style="text-align:center;font-family:georgia"><b>PREFACE</b></p>
 
