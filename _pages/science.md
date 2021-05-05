@@ -21,8 +21,8 @@ I am interested in the analysis and synthesis of data from radio telescopes and 
 
 ## Publications
 
-A list of my publications can be found [here](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22natarajan%2C%20iniyan%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
-or <a href="https://arxiv.org/search/?query=iniyan+natarajan&searchtype=all&source=header">here</a>.
+A list of my publications can be found on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/7q70a_hAT6iSwhpr4OXVQQ)
+or on [Arxiv]("https://arxiv.org/search/?query=iniyan+natarajan&searchtype=all&source=header").
 
 ## Selected Talks
 
