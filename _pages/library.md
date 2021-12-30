@@ -8,7 +8,7 @@ toc_icon: "book"
 ---
 
 <p style="text-align:justify;"> Here is a (very) incomplete list of books and authors that I have benefitted from and would recommend to anyone.
-A less incomplete list may be found on <a href="https://www.goodreads.com/user/show/7790691-iniyan">Goodreads</a>.</p>
+A less incomplete list may be found on <a href="https://app.thestorygraph.com/profile/iniyan">The StoryGraph</a>.</p>
 
 ## English
 
