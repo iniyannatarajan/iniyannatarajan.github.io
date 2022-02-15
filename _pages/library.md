@@ -84,8 +84,6 @@ A less incomplete list may be found on <a href="https://app.thestorygraph.com/pr
 
 **A Beautiful Question** *Frank Wilczek*
 
-**Consilience: The Unity of Knowledge** *Edward O. Wilson*
-
 **The Big Picture** *Sean Carroll*
 
 ## தமிழ்
