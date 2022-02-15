@@ -78,7 +78,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/saiyanprince"
     - label: "The Storygraph"
-      icon: "fab fa-fw fa-thestorygraph"
+      icon: "fa fa-fw fa-book"
       url: "https://app.thestorygraph.com/profile/iniyan"
     #- label: "Goodreads"
     #  icon: "fab fa-fw fa-goodreads"
