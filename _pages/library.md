@@ -14,17 +14,17 @@ A less incomplete list may be found on <a href="https://app.thestorygraph.com/pr
 
 ### Speculative Fiction
 
-**Wayfarers** ***series***; **To Be Taught, If Fortunate** *Becky Chambers*
+**Foundation** ***series*** **The Gods Themselves**; **The Complete Robot**  *Isaac Asimov*
 
 **The Fountains of Paradise**; **The Songs of Distant Earth** *Arthur C. Clarke*
 
-**The Left Hand of Darkness**; **The Dispossessed**; **The Tombs of Atuan**; **Tehanu** *Ursula K. Le Guin*
+**Annals of the Western Shore**; **Hainish Cycle**; **Earthsea** *Ursula K. Le Guin*
+
+**Wayfarers** ***series***; **To Be Taught, If Fortunate** *Becky Chambers*
 
 **The Hitchhiker's Guide to the Galaxy** ***series*** *Douglas Adams*
 
-**Foundation** ***series*** **The Gods Themselves**; **The Complete Robot**  *Isaac Asimov*
-
-**Kindred** *Octavia E. Butler*
+**Kindred**; **Patternist** ***series*** *Octavia E. Butler*
 
 **Discworld** ***City Watch series*** *Terry Pratchett*
 
