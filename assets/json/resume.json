@@ -91,13 +91,12 @@
       "name": "Astronomy",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Radio Astronomy",
         "Black Holes",
-        "Active Galactic Nuclei",
-        "Galaxy Evolution and Jets",
-        "Extragalactic astronomy",
+        "Radio Astronomy",
         "Signal Processing",
         "Statistical Methods",
+        "Active Galactic Nuclei",
+        "Galaxy Evolution and Jets",
         "Scientific Software Development"
       ]
     }
