@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Astrophysicist <a href='https://www.cfa.harvard.edu/'>Center for Astrophysics | Harvard & Smithsonian</a> #. Address. Contacts. Motto. Etc.
+subtitle: Astrophysicist at <a href='https://www.cfa.harvard.edu/'>Center for Astrophysics | Harvard & Smithsonian</a> #. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral research fellow at the Smithsonian Astrophysical Observatory. My research interests include radio interferometry, signal processing, statistical methods, black holes, and extragalactic astronomy.
+I am a postdoctoral research fellow at the Smithsonian Astrophysical Observatory. My research interests include radio interferometry, signal processing, statistical methods, black holes, and extragalactic astronomy. I currently use the Event Horizon Telescope (EHT) in my research.

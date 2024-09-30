@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Iniyan Natarajan",
+    "label": "Astrophysicist (Post-Doctoral Research Fellow)",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "https://iniyannatarajan.github.io/",
+    "summary": "Astrophysicist with 10+ years of experience in the field of radio astronomy and astrophysics.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,38 +24,26 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Center for Astrophysics | Harvard & Smithsonian",
+      "position": "Astrophysicist",
+      "url": "https://www.cfa.harvard.edu/",
+      "startDate": "2022-09-12",
+      "endDate": "Present",
+      "summary": "Member of the Radio and Geoastronomy division. Project and sub-team lead in EHT data calibration since 2021 campaign.",
+      "highlights": ["Radio astronomy, VLBI, EHT, data calibration, signal processing"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Cape Town, South Africa",
+      "location": "Cape Town, South Africa",
+      "url": "https://science.uct.ac.za/department-astronomy",
+      "area": "Astronomy & Astrophysics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2013-03-15",
+      "endDate": "2017-12-12",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Astronomy & Astrophysics"]
     }
   ],
   "awards": [
@@ -136,65 +124,47 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Selected Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "Python",
+      "Julia",
+      "Shell Programming",
+      "C/C++",
+      "GNU Octave/MATLAB",
+      "Java",
+      "JavaScript",
+      "HTML/CSS"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "Selected Scientific Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      "HOPS",
+      "CASA",
+      "Docker",
+      "Singularity",
+      "Latex",
+      "Git"
+      ]
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Astronomy",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Radio Astronomy",
+        "Black Holes",
+        "Active Galactic Nuclei",
+        "Galaxy evolution and jets",
+        "Extragalactic astronomy",
+        "Signal Processing",
+        "Scientific Software Development"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
